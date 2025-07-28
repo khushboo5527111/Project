@@ -3,7 +3,7 @@ This repository contains all my hands-on learning with Git and GitHub — includ
 
 "Agile for Beginners Certificate from Great Learning"
 
-![image alt](SDLC/5527111_Khushboo.jpg)
+![image alt](SDLC/5527111_GreatLearning.jpg)
 
 "Git Training Certificate from Simplilearn"
 
