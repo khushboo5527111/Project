@@ -14,9 +14,9 @@
 
 "Introduction to C Certificate from SoloLearn"
 
-![image alt](C Certificates/Khushboo_CB.jpg)
+![image alt](C_Certificates/Khushboo_CB.jpg)
 
 " C Intermediate Certificate from SoloLearn"
 
-![image alt](C Certificates/Khushboo_CI.jpg)
+![image alt](C_Certificates/Khushboo_CI.jpg)
 
