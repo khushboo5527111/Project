@@ -14,7 +14,7 @@
 
 "C for Beginners Certificate from SoloLearn"
 
-![image alt](C Certificates/Khushboo_CB.jpg)
+![image alt]("C Certificates/Khushboo_CB.jpg")
 
 " C Intermediate Certificate from SoloLearn"
 
