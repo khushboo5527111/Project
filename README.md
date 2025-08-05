@@ -12,9 +12,9 @@
 
 ![image alt](Git_Certificate/5527111_khushboo.jpg)
 
-"C for Beginners Certificate from SoloLearn"
+"Introduction to C Certificate from SoloLearn"
 
-![image alt]("C Certificates/Khushboo_CB.jpg")
+![image alt](C Certificates/Khushboo_CB.jpg)
 
 " C Intermediate Certificate from SoloLearn"
 
