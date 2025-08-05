@@ -1,5 +1,4 @@
 # 5527111_Khushboo 
-This repository contains all my hands-on learning with Git and GitHub — including branching, merging, rebasing, tagging, resolving conflicts, and organizing real project files. It's part of my goal to master version control for modern software development.
 
 "Agile for Beginners Certificate from Great Learning"
 
@@ -12,4 +11,12 @@ This repository contains all my hands-on learning with Git and GitHub — includ
 "Git Basics Certificate from CodeSignal"
 
 ![image alt](Git_Certificate/5527111_khushboo.jpg)
+
+"C for Beginners Certificate from SoloLearn"
+
+![image alt](C Certificates/Khushboo_CB.jpg)
+
+" C Intermediate Certificate from SoloLearn"
+
+![image alt](C Certificates/Khushboo_CI.jpg)
 
