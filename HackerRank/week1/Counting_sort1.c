@@ -1,31 +1,40 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-void countingSort(int inputArray[], int length, int frequency[]) {
-    for (int index = 0; index < 100; index++) {
-        frequency[index] = 0;
+void countingSort(int Arr[], int len, int freq[]) {
+    for (int n = 0; n < 100; n++) {
+        freq[n] = 0;
     }
-    for (int idx = 0; idx < length; idx++) {
-        frequency[inputArray[idx]]++;
+    for (int n = 0; n < len; n++) {
+        freq[Arr[n]]++;
     }
 }
 
 int main() {
     int size;
+    printf("Enter  Size of elements:\n");
     scanf("%d", &size);
-    
-    int values[size];
-    int frequency[100];
 
+    int *vals = (int *)malloc(size * sizeof(int));
+    if(vals == NULL){
+     printf("Memory allocation failed!\n");
+         return 1;
+    }
+         
+    int freq[100];
+
+    printf("Enter %d integers (each between 0 and 99):\n",size);
     for (int i = 0; i < size; i++) {
-        scanf("%d", &values[i]);
+        scanf("%d", &vals[i]);
     }
 
-    countingSort(values, size, frequency);
+    countingSort(vals, size, freq);
 
+    printf("\nFrequency of numbers (0-99):\n");
     for (int i = 0; i < 100; i++) {
-        printf("%d", frequency[i]);
-        if (i != 99) printf(" ");
+        printf("%2d -> %d\n",i,freq[i]);
     }
 
+    free(vals);
     return 0;
 }
